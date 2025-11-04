@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Used to store website configuration information.
+ * Uso define para crearme una constante llamada PATH y con el valor de la constante que sera esa ruta a localhost
  *
- * @var string or null
+ * @var string El valor de la constante puede ser o un string como en este caso o null
  */
 define("PATH","http://localhost/deaw");
 
